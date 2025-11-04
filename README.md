@@ -9,5 +9,7 @@ A theme inspired by PPY's Osu! theme for the Zed code editor.
 ## TODOs
 
 - [ ] Submit to Zed marketplace.
-credits to:
+
+## Credits
+
 [ppy-jetbrains-theme](https://github.com/peppy/ppy-jetbrains-theme/)
